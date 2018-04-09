@@ -1,0 +1,12 @@
+{
+  "name": "Vegas",
+  "version": "1.0.0",
+  "description": "Manages a betting system and tracks a virtual currency",
+  "main": "bot.js",
+  "author": "dhallstr",
+  "dependencies": {
+    "discord.js": "^11.3.2",
+    "jsonfile": "^4.0.0",
+    "xmlhttprequest": "^1.8.0"
+  }
+}
